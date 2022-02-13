@@ -1,0 +1,11 @@
+{
+    "item.kraftmod.silver_ingot": "lingot d'argent",
+    "item.kraftmod.titane_ingot": "lingot de titane",
+    "item.kraftmod.paladium_ingot": "lingot de paladium",
+    "item.kraftmod.endemonium_ingot": "lingot d'endémonium",
+
+    "block.kraftmod.silver_block": "bloc d'argent",
+    "block.kraftmod.titane_block": "bloc de titane",
+    "block.kraftmod.paladium_block": "bloc de paladium",
+    "block.kraftmod.endemonium_block": "bloc d'endémonium"
+}

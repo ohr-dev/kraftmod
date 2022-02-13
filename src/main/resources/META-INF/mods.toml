@@ -1,0 +1,16 @@
+
+modLoader="javafml"
+loaderVersion="[39,)"
+license="GNU AGPLv3"
+[[mods]]
+modId="kraftmod"
+version="1.0"
+displayName="Kraft Mod"
+logoFile="examplemod.png"
+credits="mod created by the Ohrond-development team"
+authors="kirecprod, askfred"
+description='''
+
+the official mod of the server kraft
+
+'''

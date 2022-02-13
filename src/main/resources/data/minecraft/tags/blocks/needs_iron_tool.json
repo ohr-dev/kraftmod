@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "kraftmod:silver_block",
+        "kraftmod:titane_block",
+        "kraftmod:paladium_block",
+        "kraftmod:endemonium_block"
+    ]
+}

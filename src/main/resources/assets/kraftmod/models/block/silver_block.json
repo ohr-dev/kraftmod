@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "kraftmod:blocks/silver_block"
+    }
+}

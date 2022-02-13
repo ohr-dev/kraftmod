@@ -1,0 +1,11 @@
+{
+  "item.kraftmod.silver_ingot": "silver ingot",
+  "item.kraftmod.titane_ingot": "titane ingot",
+  "item.kraftmod.paladium_ingot": "paladium ingot",
+  "item.kraftmod.endemonium_ingot": "endemonium ingot",
+
+  "block.kraftmod.silver_block": "silver block",
+    "block.kraftmod.titane_block": "titane block",
+    "block.kraftmod.paladium_block": "paladium block",
+    "block.kraftmod.endemonium_block": "endemonium block"
+}
