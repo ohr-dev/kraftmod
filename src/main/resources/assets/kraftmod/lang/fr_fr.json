@@ -9,4 +9,9 @@
     "block.kraftmod.titane_block": "bloc de titane",
     "block.kraftmod.paladium_block": "bloc de paladium",
     "block.kraftmod.endemonium_block": "bloc d'endémonium"
+
+    "block.kraftmod.silver_ore": "minerais d'argent",
+    "block.kraftmod.titane_ore": "minerais de titane",
+    "block.kraftmod.paladium_ore": "minerais de paladium",
+    "block.kraftmod.endemonium_ore": "minecraft d'endémonium"
 }

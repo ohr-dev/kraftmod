@@ -2,7 +2,6 @@ package fr.kirecprod.kraftmod.core.init;
 
 import fr.kirecprod.kraftmod.KraftMod;
 import net.minecraft.world.item.BlockItem;
-import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
@@ -21,10 +20,17 @@ public final class  ItemInit {
     //ITEMS
 
     //BLOCK ITEMS
+    // MATERIAL BLOCKS
     public static final RegistryObject<BlockItem> SILVER_BLOCK_ITEM = ITEMS.register("silver_block", () -> new BlockItem(BlockInit.SILVER_BLOCK.get(), new Item.Properties().tab(KraftMod.TAB_KRAFTMOD).fireResistant()));
     public static final RegistryObject<BlockItem> TITANE_BLOCK_ITEM = ITEMS.register("titane_block", () -> new BlockItem(BlockInit.TITANE_BLOCK.get(), new Item.Properties().tab(KraftMod.TAB_KRAFTMOD).fireResistant()));
     public static final RegistryObject<BlockItem> PALADIUM_BLOCK_ITEM = ITEMS.register("paladium_block", () -> new BlockItem(BlockInit.PALADIUM_BLOCK.get(), new Item.Properties().tab(KraftMod.TAB_KRAFTMOD).fireResistant()));
     public static final RegistryObject<BlockItem> ENDEMONIUM_BLOCK_ITEM = ITEMS.register("endemonium_block", () -> new BlockItem(BlockInit.ENDEMONIUM_BLOCK.get(), new Item.Properties().tab(KraftMod.TAB_KRAFTMOD).fireResistant()));
+
+    // MATERIAL ORES
+    public static final RegistryObject<BlockItem> SILVER_ORE_ITEM = ITEMS.register("silver_ore", () -> new BlockItem(BlockInit.SILVER_ORE.get(), new Item.Properties().tab(KraftMod.TAB_KRAFTMOD).fireResistant()));
+    public static final RegistryObject<BlockItem> TITANE_ORE_ITEM = ITEMS.register("titane_ore", () -> new BlockItem(BlockInit.TITANE_ORE.get(), new Item.Properties().tab(KraftMod.TAB_KRAFTMOD).fireResistant()));
+    public static final RegistryObject<BlockItem> PALADIUM_ORE_ITEM = ITEMS.register("paladium_ore", () -> new BlockItem(BlockInit.PALADIUM_ORE.get(), new Item.Properties().tab(KraftMod.TAB_KRAFTMOD).fireResistant()));
+    public static final RegistryObject<BlockItem> ENDEMONIUM_ORE_ITEM = ITEMS.register("endemonium_ore", () -> new BlockItem(BlockInit.ENDEMONIUM_ORE.get(), new Item.Properties().tab(KraftMod.TAB_KRAFTMOD).fireResistant()));
     //BLOCK ITEMS
 
 }

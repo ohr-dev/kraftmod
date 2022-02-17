@@ -7,7 +7,13 @@
   "item.kraftmod.endemonium_ingot": "endemonium ingot",
 
   "block.kraftmod.silver_block": "silver block",
-    "block.kraftmod.titane_block": "titane block",
-    "block.kraftmod.paladium_block": "paladim block",
-    "block.kraftmod.endemonium_block": "endemonium block"
+  "block.kraftmod.titane_block": "titane block",
+  "block.kraftmod.paladium_block": "paladim block",
+  "block.kraftmod.endemonium_block": "endemonium block",
+
+  "block.kraftmod.silver_ore": "silver ore",
+  "block.kraftmod.titane_ore": "titane ore",
+  "block.kraftmod.paladium_ore": "paladium ore",
+  "block.kraftmod.endemonium_ore": "endemonium ore"
+
 }
